@@ -2,11 +2,11 @@
   "items": [
     {
       "key": "Settins_ID",
-      "value": "Settings Scound"
+      "value": "ﺕﺍﺩﺍﺪﻋﻻﺍ"
     },
     {
       "key": "StartGame_ID",
-      "value": "Tap to play Scound"
+      "value": "Tﺐﻌﻠﻟﺍ ﺀﺪﺒﻟ ﻂﻐﺿﺍ"
     }
   ]
 }
