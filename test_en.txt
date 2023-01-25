@@ -1,5 +1,5 @@
 {
-  "itmes": [
+  "items": [
     {
       "key": "Settins_ID",
       "value": "Settings"
