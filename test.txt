@@ -1,0 +1,12 @@
+{
+  "itmes": [
+    {
+      "key": "Settins_ID",
+      "value": "Settings"
+    },
+    {
+      "key": "StartGame_ID",
+      "value": "Tap to play"
+    }
+  ]
+}
